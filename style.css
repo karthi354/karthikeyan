@@ -1,0 +1,112 @@
+h1 {
+	color: #00c9ff;
+	font-family: "Abril Fatface";
+	
+}
+
+h2 { 
+	color:yellow;
+	font-family: "Abril Fatface";
+}
+h3 { 
+	color:yellow;
+	font-family: "Abril Fatface";
+}
+h4 {
+	color:#00c9ff;
+	font-family: "Silkscreen";
+}
+ body {
+	margin:0px;
+	color:white;
+	background:gray;
+	
+}
+
+img {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:300px;
+	height:150px;
+	border-radius:1em;
+}
+section.aboutme {
+	display:flex;
+	margin: 100px 0 0;
+	
+}
+nav {
+	
+	display:flex;
+	margin:auto;
+	text-align:center;
+}
+header {
+	background:black;
+	display:flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content:flex-end ;
+	position:fixed;
+	top:0px;
+	
+}
+header nav button{
+	background:gray;
+	margin-right:8px;
+	border-color:#00c9ff;
+	display:flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content:flex-end ;
+
+}
+
+
+header nav div a{
+	color:white;
+	list-style:none;
+	text-decoration: none;	
+}
+img.logo{
+	border-radius: 30em;
+	width: 5%;
+	height: 1%;
+	margin-top: 10px;
+	margin-right: 8px;
+	margin-left: 8px;
+	}
+	
+section.forbackground {
+	background:black;
+	
+}
+
+footer {
+	color:#00c9ff;
+	font-family: "Silkscreen";
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	background:gray;
+	height:100px;
+}
+
+footer div a img {
+	width:35px;
+	height:auto;
+	margin-left:250px;
+	
+}
+.Top a{
+	margin-left:650px;
+	font-size:40px;
+}
+footer div a img {
+	width:35px;
+	height:auto;
+	margin-left:250px;
+	
+}
+
